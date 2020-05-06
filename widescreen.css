@@ -1,0 +1,16 @@
+main{
+    display: block;
+}
+main,.img,.img img{
+    width: 100%;
+}
+.notable{
+    flex-direction: column;
+}
+.cont{
+    flex-direction: column;
+}
+.asds, .place{
+    margin-left: auto;
+    margin-right: auto;
+}
